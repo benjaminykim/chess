@@ -1,2 +1,4 @@
 # chess
-a chess platform written in Python, with the purpose of developing a competitive engine
+A Chess Platform written in Python with the intention to develop a competitive engine.
+
+Game model is still under development.
